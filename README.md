@@ -1,4 +1,4 @@
-# react_news
+# react-news
 1.使用React.js框架 + ES6 + webpack2编写；
 
 2.样式采用Ant Design样式框架开发，所有模块同时适配PC及移动端；
